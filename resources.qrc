@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/mazury1.jpg</file>
+        <file>img/mazury2.jpg</file>
+        <file>img/mazury3.jpg</file>
+        <file>img/mazury4.jpg</file>
+        <file>img/mazury5.jpg</file>
+        <file>img/mazury6.jpg</file>
+        <file>img/mazury7.jpg</file>
+        <file>img/mazury8.jpg</file>
+        <file>img/mazury9.jpg</file>
+        <file>img/mazury10.jpg</file>
+    </qresource>
+</RCC>
